@@ -4,17 +4,17 @@
 
 ### Using [fvm](https://github.com/qlaffont/fvm-installer)
 ```
-fvm install --save --folder=esx esx-org/cron
+fvm install --save --folder=esx esx-organization/cron
 ```
 
 ### Using Git
 ```
 cd resources
-git clone https://github.com/ESX-Org/cron cron
+git clone https://github.com/esx-organization/cron cron
 ```
 
 ### Manually
-- Download https://github.com/ESX-Org/cron/archive/master.zip
+- Download https://github.com/esx-organization/cron/archive/master.zip
 - Put it in your resource directory
 
 
