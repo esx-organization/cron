@@ -14,7 +14,7 @@ git clone https://github.com/esx-organization/cron cron
 ```
 
 ### Manually
-- Download https://github.com/esx-organization/cron/archive/master.zip
+- Download https://github.com/esx-organization/cron
 - Put it in your resource directory
 
 
